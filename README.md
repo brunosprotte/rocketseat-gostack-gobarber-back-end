@@ -11,14 +11,22 @@ Como framework ORM, foi optado pelo uso do TypeORM.
 
 ### Executando a aplicação
 
+Versões:
 `YARN 1.22.4`
 `NODE 12.16.3`
 `POSTGRES 12.2`
 
+Execução
+
+`yarn`
+
 `yarn typeorm migration:run`
+
 `yarn test`
+
 `yarn dev:server`
 
-a API da aplicação pode ser encontrada no arquivo go-barber.json exportado pelo aplicativo Insomnia
+
+A API da aplicação pode ser encontrada no arquivo go-barber.json exportado pelo aplicativo Insomnia
 
 
